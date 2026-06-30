@@ -1,0 +1,31 @@
+{
+  "averias_mayores": {
+    "holaaaa": "Te confirmo la reunión para el día 'FECHA'",
+    "sin_electricidad_planta_encendida": "Nodos sin servicio eléctrico y planta encendida:\n- *NODO*",
+    "sin_servicio_electrico": "Los siguientes nodos se encuentran sin servicio eléctrico:\n- *NODO*",
+    "update_incidente": "🚨UPDATE🚨\n\n⚠️ Incidente activo: corte de fibra | Afectación energética | Afectación lógica | degradación del servicio\nNodo(s) afectado(s): \nServicios afectados: GPON RESIDENCIAL | Airtek TV | CLIENTES DEDICADOS | GPON PYME\nCantidad de clientes afectados: xxxx"
+  },
+  "internet_dedicado": {
+    "flap18600": "*Flap* de puerto et-0/0/24 circuito *18600.CN (TM100G)* perteneciente al port-channel ae4 *(Enlace 18OT - BGTA de 25ms)*",
+    "up18600": "Puerto et-0/0/24 circuito *18600.CN (TM100G)* perteneciente al port-channel ae4 *(Enlace 18OT - BGTA de 50ms)* se encuentra *UP*"
+  },
+  "macros": {},
+  "mensajes_generales": {
+    "despedida": "Gracias por tu atención. Quedo atento.",
+    "finman": "🔔Notificación de finalización de ventana de mantenimiento🔔\n\nAsunto:",
+    "flap": "Se observa flap el puerto 'PUERTO' con descripción 'DESCRIPCION' desde el equipo 'EQUIPO'.",
+    "gracias": "Muchas gracias por tu respuesta.",
+    "holaa": "Te confirmo la reunión para el día 'FECHA'",
+    "holaaa": "Te confirmo la reunión para el día 'FECHA'",
+    "iniman": "🔔Notificación de inicio de ventana de mantenimiento🔔\n\nAsunto:",
+    "luz": "Nodo 'NODO' con servicio eléctrico",
+    "nlu": "Nodo 'NODO' con servicio eléctrico",
+    "notiman": "🔔Notificación de ventana de mantenimiento🔔\n\nAsunto:\n🗓️Fecha:\n🕒Hora de inicio:\nDuración estimada:\nServicios afectados:\nTiempo de indisponibilidad:",
+    "previo:": "Previo a la actividad compartimos los valores del tráfico total residencial del nodo Cañada, así como los leases totales ipv4 como ipv6.\nR",
+    "problemiptv": "Buenas tardes, equipo, para su conocimiento en estos momentos se presenta un inconveniente con el servicio de IPTV.",
+    "reunion": "Te confirmo la reunión para el día 'FECHA' a las 'HORA'",
+    "saludo": "Hola, ¿cómo estás?",
+    "tranodos": "Buenos días muchachos, se realizaron trabajos en los Nodos *NODO*. en el caso de recibir clientes reportando de los nodos mencionados, validar con un reinicio, por favor.",
+    "upman": "🔔UPDATE🔔\n\nVentana de mantenimiento: \nResumen:"
+  }
+}
